@@ -18,3 +18,6 @@ This codebase is provided as-is and there is no warranty. I will look at pull re
   * Or, if using Gear VR, drag in [Scene]/OVRCameraRig/TrackingSpace/CenterEyeAnchor to aim with your face.
 
 NOTE: Currently, only the Touch Right Trigger is supported for shooting a bubble.
+
+## Tips
+* Create a Layer named Poolers and hide it from any cameras. This will make sure objects are invisible while they're pooled. (The Pool Manager will automatically detect if there is a "Poolers" layer and assign/unassign the layer as needed.)
