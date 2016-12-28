@@ -12,9 +12,10 @@ You will need prior knowledge of how to develop with Unity and with a Virtual Re
 
 ##How To Use
 1. Download (or fork+clone) this repo, then open the BubbleShooterUnityProject folder in Unity as a Project.
-2. Open one of the scenes you wish to experiment with.
-3. Drag a camera rig from your VR SDK of choice into the scene.
-4. Find the Shoot Controller instance in the scene, and drag the transform of the controller into the Controller Transform field.
+1. Import the VR SDK of your choice.
+1. Open one of the scenes you wish to experiment with.
+1. Drag a camera rig from the VR SDK into the scene.
+1. Find the Shoot Controller instance in the scene, and drag the transform of the controller into the Controller Transform field.
   * For example, if using Oculus Touch, drag in [Scene]/OVRCameraRig/TrackingSpace/RightHandAnchor to aim with your right hand.
   * Or, if using Gear VR, drag in [Scene]/OVRCameraRig/TrackingSpace/CenterEyeAnchor to aim with your face.
 
