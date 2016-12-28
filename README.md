@@ -3,12 +3,12 @@ This 3D match-3 bubble shooting game was developed in Unity originally for use w
 
 Video: https://youtu.be/NPy7xM5XTS4
 
+##Disclaimers
+* **_This codebase is provided as-is and there is no warranty. I might look at pull requests and bug reports submitted through github, but I make no guarantee that I will ever address any bugs or make any further improvements._**
+* There are very limited game mechanics here (no scoring, no progression, etc), so it's not a game per se. It's more a foundation on which to build a bubble shooting game.
+
 ##Prerequisites
 You will need prior knowledge of how to develop with Unity and with a Virtual Reality SDK. This project does not contain a VR SDK, you'll need to import the one you wish to use.
-
-##Disclaimers
-* This codebase is provided as-is and there is no warranty. I will look at pull requests and bug reports submitted through github, but I make no guarantee that I will ever address any bugs or make any further improvements.
-* There are very limited game mechanics here (no scoring, no progression, etc), so it's not a game per se. It's more a foundation on which to build a bubble shooting game.
 
 ##How To Use
 1. Download (or fork+clone) this repo, then open the BubbleShooterUnityProject folder in Unity as a Project.
