@@ -1,8 +1,6 @@
 #Bubble Shooter VR
 This 3D match-3 bubble shooting game was developed in Unity originally for use with Oculus Rift and Oculus Touch controllers, but it can be used with other VR systems, even ones without motion sensing controllers.
 
-Video: https://youtu.be/NPy7xM5XTS4
-
 ##Disclaimers
 * **_This codebase is provided as-is and there is no warranty. I might look at pull requests and bug reports submitted through github, but I make no guarantee that I will ever address any bugs or make any further improvements._**
 * There are very limited game mechanics here (no scoring, no progression, etc), so it's not a game per se. It's more a foundation on which to build a bubble shooting game.
