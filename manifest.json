@@ -1,0 +1,476 @@
+{
+  "homepages": [],
+  "source_base_path": "E:/Unity Projects/bubble-shooter-vr/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.BubbleShooterVR.Ball.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.BubbleShooterVR.Ball.html",
+          "hash": "PuBiNsEABdvwI4TIol+EAw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.BubbleShooterVR.BallColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.BubbleShooterVR.BallColor.html",
+          "hash": "CTedFk+aUFoXDGzUd3pFkA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.BubbleShooterVR.BallGrid.State.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.BubbleShooterVR.BallGrid.State.html",
+          "hash": "WfxYShyd6Ja4xKaKzcaoHA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.BubbleShooterVR.BallGrid.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.BubbleShooterVR.BallGrid.html",
+          "hash": "z/62L90MvTJgqjxSQjtKRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.BubbleShooterVR.BallGridEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.BubbleShooterVR.BallGridEditor.html",
+          "hash": "XPSwgsCOoEWl71DK0ZMN9w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.BubbleShooterVR.BallShot.State.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.BubbleShooterVR.BallShot.State.html",
+          "hash": "HSg4cN4zIaufb5hfu1XV/w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.BubbleShooterVR.BallShot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.BubbleShooterVR.BallShot.html",
+          "hash": "8PNzSaso090n1ztA8tJ//A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.BubbleShooterVR.BallType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.BubbleShooterVR.BallType.html",
+          "hash": "FF1F5M1clCHQUIGQgq6yqQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.BubbleShooterVR.EditorCommon.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.BubbleShooterVR.EditorCommon.html",
+          "hash": "hGRtvFoty2Lk2VyUa59YtA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.BubbleShooterVR.GameMgr.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.BubbleShooterVR.GameMgr.html",
+          "hash": "lpm9yKm95zfHXV4WmRM7LQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.BubbleShooterVR.GridBall.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.BubbleShooterVR.GridBall.html",
+          "hash": "voHg6RddF8mAovCz0FBjPQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.BubbleShooterVR.GridBallEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.BubbleShooterVR.GridBallEditor.html",
+          "hash": "rInNpnYgAqAbf5tDOGmFww=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.BubbleShooterVR.GridBallSensorNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.BubbleShooterVR.GridBallSensorNode.html",
+          "hash": "Mc1YHXGFzixdF3aiuqkgKA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.BubbleShooterVR.ShootController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.BubbleShooterVR.ShootController.html",
+          "hash": "oX6HJ95+wOy355BNyUw46A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.BubbleShooterVR.WallCube.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.BubbleShooterVR.WallCube.html",
+          "hash": "wpPCXdHSUdZowzZrYsaIxw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.BubbleShooterVR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.BubbleShooterVR.html",
+          "hash": "fTp8F6y5t+QbmIzFAlF3Qw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.ExtensionMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.ExtensionMethods.html",
+          "hash": "48Y3N3HkQtbZDRAAiE/7Ew=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.Pooling.EditorListOption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.Pooling.EditorListOption.html",
+          "hash": "DTjyGQTWVQcqUITv4hARgg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.Pooling.IPooledInstanceGet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.Pooling.IPooledInstanceGet.html",
+          "hash": "zufVPARMQSv4MnJmlYtzng=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.Pooling.IPooledInstanceReturn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.Pooling.IPooledInstanceReturn.html",
+          "hash": "d16ZkRQ5Lz1f6R3mUY0rag=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.Pooling.PoolManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.Pooling.PoolManager.html",
+          "hash": "bNYw2ZwyU1jQGcTGz24jPA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.Pooling.PoolManagerInspector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.Pooling.PoolManagerInspector.html",
+          "hash": "xNq/OK975o3lGGq6Uh8zGA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.Pooling.Poolable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.Pooling.Poolable.html",
+          "hash": "z57upj4LNkxDcHPE05h4ng=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.Pooling.PoolableDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.Pooling.PoolableDrawer.html",
+          "hash": "lo8GLyLKjpM8uz2LZMWpRw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.Pooling.PoolableEditorList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.Pooling.PoolableEditorList.html",
+          "hash": "mtNdsvYI/2G4OvQ/bSuw9A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.Pooling.Pooler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.Pooling.Pooler.html",
+          "hash": "lMd0cRAO9b+YLEjyy7aBeA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.Pooling.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.Pooling.html",
+          "hash": "MdweKQ2+l+jb1imH9xN8mQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.Utils.html",
+          "hash": "vQf8MWbc4Yw2kDB+Td9YYA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.Vector3i.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.Vector3i.html",
+          "hash": "l+mF0ciVpZ4TCnL7GD7ouQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RichJoslin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RichJoslin.html",
+          "hash": "+oj3D0FEBaLtFDfJJuuSog=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "wrlt9hbXU7QkPWvP7SZB1A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "pJGmnENWLa4fFUKivhFfGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "CEBqQcjl6z/R+iNTkL8rmg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "t7iiFrmuYmrKWisdq+lN6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "Qhgye5yELgtw8RMLn7luug=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "k+/dkjFuwAVS32HduMpmBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
