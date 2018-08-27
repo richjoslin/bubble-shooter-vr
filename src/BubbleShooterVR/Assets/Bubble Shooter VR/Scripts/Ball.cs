@@ -16,10 +16,22 @@ namespace RichJoslin
 			LENGTH,
 		}
 
+		/// <summary>
+		/// Determines whether the ball has any special effects.
+		/// </summary>
+
 		public enum BallType
 		{
+			/// <summary>No special effects.</summary>
+
 			Default,
+
+			/// <summary>Change the color of all balls within a radius of where it hits.</summary>
+
 			PaintSplash,
+
+			/// <summary>Explode, destroying all balls within a radius of where it hits.</summary>
+
 			Bomb,
 		}
 
